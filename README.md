@@ -21,3 +21,4 @@ The policy JSON was configured to restrict access to the specific bucket and its
 
 <img width="1916" height="822" alt="Image" src="https://github.com/user-attachments/assets/89490980-4cd9-4e2d-bfa8-660f1ee98115" />
 <img width="1918" height="825" alt="Image" src="https://github.com/user-attachments/assets/a11bd66d-dab7-4225-a3b6-1d46ce24604d" />
+<img width="1916" height="824" alt="Image" src="https://github.com/user-attachments/assets/9d5de361-603f-4d4a-a414-008ef0b4e2b3" />
